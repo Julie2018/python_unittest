@@ -1,0 +1,6 @@
+Flask==2.0.2
+pytest
+python-dotenv
+boto3
+pydantic     
+odart @ https://perftest:fAst3r!@d2n21ew7j1rf3v.cloudfront.net/python/odart/master/odart-latest.zip
